@@ -1,0 +1,51 @@
+.equipe--avatar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.contact--title{
+    color: white;
+    font-size: 25px;
+    font-family: Poppins;
+}
+
+.submit--button {
+    cursor: pointer;
+    background-color: #8160A9;
+    border-radius: 5px;
+    padding: 15px 25px 15px 25px;
+    border: none;
+    color: white;
+}
+
+label {
+    color: grey;
+}
+
+input {
+    animation: ease-in-out;
+    transition-duration: 0.4s;
+    width: 100%;
+    border:none;
+    padding: 10px;
+    border-bottom: 2px solid #F3F4F7;
+}
+
+select {
+    padding: 10px;
+    width: 100%;
+}
+
+input:focus {
+    border-bottom: 2px solid #8160A9;
+}
+
+form > div {
+    margin-bottom: 10px;
+}
+
+textarea {
+    width: 100%;
+    min-height: 100px;
+}

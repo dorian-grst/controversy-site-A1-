@@ -1,0 +1,127 @@
+.text--logo > a {
+    cursor: pointer;
+    width: 5%;
+    min-width: 100px;
+    max-width: 200px;
+    font-family: Poppins-Bold;
+}
+
+.author {
+    color: #8160a9;
+}
+
+.nav--title {
+    flex-grow: 1;
+    margin: auto;
+    cursor: pointer;
+    animation: ease-in-out;
+    transition-duration: 0.4s;
+}
+
+.nav--title:hover .submenu--wrapper {
+    display:block;
+}
+
+.section--title {
+    text-align: center;
+    font-family: Poppins-Bold;
+    font-size: 30px;
+}
+
+.section--subtitle {
+    margin-top: 10px;
+    text-align: justify;
+    font-family: Poppins-Regular;
+    font-size: 22px;
+}
+
+.section--img {
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+    flex-grow: 2;
+    width: 100%;
+    max-width: 1200px;
+    border-radius: 10px;
+}
+
+.title--details {
+    margin: 10px;
+    flex-grow: 1;
+    width: 95%;
+}
+
+.section--author {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.highlight {
+    font-family: Poppins-Bold;
+    font-size: 15px;
+    color: #8160a9;
+}
+
+.section--intro {
+    text-align: justify;
+}
+
+article {
+    text-align: justify;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+.author--name {
+    font: Poppins-Bold;
+    font-size: 25px;
+}
+
+.author--publication {
+    font: Poppins-Regular;
+    font-size: 12px;
+}
+
+.author--qualification {
+    position: relative;
+    top: 10px;
+    right: 100px;
+}
+
+.author--description {
+    margin-top: 10px;
+}
+
+.author--publication {
+    max-width: 50%;
+    color: #8160a9;
+    border: 2px solid #8160a9;
+    background-color: rgba(129, 96, 169, 0.2);
+    text-align: center;
+    border-radius: 200px;
+}
+
+.dorian {
+    color: black;
+    border: 2px solid black;
+    background-color: rgba(18, 12, 14, 0.2);
+}
+
+.ruben {
+    color: #91B9DB;
+    border: 2px solid #91B9DB;
+    background-color: rgba(145, 185, 219, 0.2);
+}
+
+.sylia {
+    color: #AED1A7;
+    border: 2px solid #AED1A7;
+    background-color: rgba(174, 209, 167, 0.2);
+}
+
+@media screen and (max-width: 800px) {
+    .section--subtitle {
+        text-align: center;
+    }
+}

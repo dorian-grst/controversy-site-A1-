@@ -1,0 +1,43 @@
+.twitter--wrapper {
+    box-shadow: 5px 10px 18px #888888;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    width: calc(100% - 10px);
+    padding: 10px;
+    border-radius: 10px;    
+    animation: ease-in-out;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+.twitter--wrapper:hover {
+    color: white;
+    background-color: #1d9bf0;
+}
+
+.twitter--wrapper:hover .twitter--timestamp--wrapper {
+    color: black;
+}
+
+.twitter--avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid #1d9bf0;
+}
+
+.twitter--username {
+    font-family: Poppins-Bold;
+    font-size: 15px;
+}
+
+.twitter--handle {
+    font-family: Poppins-Regular;
+    font-size: 12px;
+}
+
+.twitter--timestamp--wrapper {
+    margin-top: 10px;
+    color: grey;
+}
