@@ -1,14 +1,13 @@
 ### 📚DORIAN GRASSET - CLÉMENT TRENS - SYLIA RATHIER - RUBEN GAY📚
 
-**SAE CONTROVERSE** 🏷️
+**SAE CONTROVERSY** 🏷️
 
-Vous trouverez dans ce repository notre travail sur la SAE Controverse [1ère année] dans lequel nous devions faire un site vitrine sur le sujet suivant : "En quoi les NFT’s font polémique 
-et fractionnent la communauté artistique ?".
+In this repository, you will find our work on the SAE Controversy [1st year], where we had to create a showcase website on the following topic: "How do NFTs create controversy and divide the artistic community?".
 
 # Installation
 
-Téléchargez ou clonez le répertoire de l'application sur votre ordinateur local.
+Download or clone the application repository to your local computer.
 
-# Lancement
+# Launch
 
-Une fois que vous avez téléchargé les fichiers, ouvrez le fichier HTML avec votre navigateur web préféré (par exemple, Chrome, Firefox, Safari). L'application devrait s'afficher correctement dans votre navigateur.
+Once you have downloaded the files, open the HTML file with your preferred web browser (e.g., Chrome, Firefox, Safari). The application should display correctly in your browser.
